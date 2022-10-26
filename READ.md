@@ -6,3 +6,9 @@ Add two images, one in the image directory and another from a different server
 
 List of Students:
 Inemesit Udousoro
+Chinemerem
+Aduragbemi Oduntan
+Damiete Ibama
+Terry Wachuka
+Adetunji Rosheedat Oyindamola
+Mercy Obasi
