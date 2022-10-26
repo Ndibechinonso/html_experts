@@ -5,4 +5,14 @@ The html file will contain a H2 tag bearing your name - name.html
 Add two images, one in the image directory and another from a different server
 
 List of Students:
-LOUISA_ODUDU
+Louisa Odudu
+Chisara Dolphine
+Martha Suleiman
+Inemesit Udousoro
+Chinemerem
+Aduragbemi Oduntan
+Damiete Ibama
+Terry Wachuka
+Adetunji Rosheedat Oyindamola
+Mercy Obasi
+Venecia Kakusha
