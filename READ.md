@@ -5,6 +5,8 @@ The html file will contain a H2 tag bearing your name - name.html
 Add two images, one in the image directory and another from a different server
 
 List of Students:
+seun
+Akindele Oluwaseun
 Louisa Odudu
 Chisara Dolphine
 Martha Suleiman
